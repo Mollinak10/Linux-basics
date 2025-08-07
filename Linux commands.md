@@ -10,7 +10,7 @@ While setting up your username keep in mind to use underscore (_) and set up a s
 After setting your username and password, you will see something like this on the screen: 
 <pre> molly_k@DESKTOP-MBJ059:~$ </pre>
 
-You might see **$** or **#** depending on your system. Here “ <pre> molly_k </pre>” is my username.   
+You might see **$** or **#** depending on your system. Here “ **molly_k** ” is my username.   
 You need to be careful about being case-sensitive while working on Ubuntu.   
 A and a are not the same thing! ⚠️ So, keep this in mind while working. 
 
@@ -85,7 +85,8 @@ rm alone is not enough to remove directories, you need to use rmdir which is to 
 
 
 
-See you for the next lesson! 👋
+See you for the next lesson! 😄 👋
+
 
 
 
