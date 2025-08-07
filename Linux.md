@@ -1,4 +1,4 @@
-# Linux-basics
+# Linux-basics INTRO
 Learn Linux basics with Molly
 HI EVERYONE :) 
 I'LL UPLOAD SOME LESSONS IN BASICS FOR YOU SO THAT YOU CAN USE IT WHENEVER YOU WISH TO DO SO. 
