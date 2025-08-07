@@ -25,7 +25,7 @@ You can choose any name for your directory. Here I’m using linux (directory na
 **ls** 
 ls is used to list down all the content. It gives you a list of directories, comes in handy when you’re using multiple directories.
 **~$ ls**
-linux
+**linux**
 
 **cd** 
 cd stands for change directory which literally means to change directory. When you have multiple directories, you can use cd to open other directories and navigate between them. 
@@ -45,9 +45,9 @@ pwd (print working directory) which shows the current directory i.e. the folder 
 **nano** 
 Do you want a text file with content? Use nano to create a text file. 
 **~$ Nano mk.txt**
-1. A new window will open. 
+1. A new window will open.
 2. Type your text. And press ctrl + X
-3. Press the Y key on the keyboard for Yes.  
+3. Press the Y key on the keyboard for Yes.
 4. Press enter-key and you’ll be back to your main page. 
 
 **rm** 
@@ -83,6 +83,7 @@ If you want to search a particular word from the contents of a file you can use 
 **My** **name* **is Molly.** 
 
 See you for the next lesson! 👋
+
 
 
 
