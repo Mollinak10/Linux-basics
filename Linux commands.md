@@ -8,7 +8,7 @@ While setting up your username keep in mind to use underscore (_) and set up a s
 
 Structure 
 After setting your username and password, you will see something like this on the screen:  
-__molly_k@DESKTOP-MBJ059:~$__
+__molly_k@DESKTOP-MBJ059:~$__  
 You might see **$** or **#** depending on your system. Here “__molly_k__” is my username. 
 You need to be careful about being case-sensitive while working on Ubuntu. 
 A and a are not the same thing! ⚠️ So, keep this in mind while working. 
@@ -83,4 +83,5 @@ If you want to search a particular word from the contents of a file you can use 
 **My** **name* **is Molly.** 
 
 See you for the next lesson! 👋
+
 
