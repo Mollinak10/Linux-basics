@@ -1,19 +1,19 @@
 Hi everyone! 👋
 Welcome to Linux basic commands. You’ll learn how to navigate in Linux using the command line. 
 
-Getting started
-LINUX 
+**Getting started
+LINUX** 
 I’ll be using **Ubuntu 24.04.1 LTS** on my windows desktop. You can also download the previous versions of Ubuntu. The command lines and prompts will be usable on earlier and future versions as well.  
 While setting up your username keep in mind to use underscore (_) and set up a simple password like your name or 1234. 
 
-Structure 
+**Structure** 
 After setting your username and password, you will see something like this on the screen:  
 __molly_k@DESKTOP-MBJ059:~$__    
 You might see **$** or **#** depending on your system. Here “__molly_k__” is my username.   
 You need to be careful about being case-sensitive while working on Ubuntu.   
 A and a are not the same thing! ⚠️ So, keep this in mind while working. 
 
-NAVIGATION  
+**NAVIGATION**  
 How to navigate like a pro! 😄  
 You need to know a few basic navigation commands to find your way while working. 
 
@@ -83,6 +83,7 @@ If you want to search a particular word from the contents of a file you can use 
 **My** *name* **is Molly.** 
 
 See you for the next lesson! 👋
+
 
 
 
