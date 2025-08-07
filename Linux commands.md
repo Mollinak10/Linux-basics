@@ -48,7 +48,24 @@ Do you want a text file with content? Use nano to create a text file.
 1. A new window will open.
 2. Type your text. (I typed My name is Molly)  And press ctrl + X
 3. Press the Y key on the keyboard for Yes.
-4. Press enter-key and you’ll be back to your main page. 
+4. Press enter-key and you’ll be back to your main page.
+
+**cat**     
+To see the text content of your text file you can use this command.  
+**~$ cat mk.txt  
+My name is Molly.  
+~$** 
+
+**echo**  
+It prints out whatever you type.   
+**~$ Echo “hi molly”   
+hi molly** 
+
+
+**grep**     
+If you want to search a particular word from the contents of a file you can use grep.   
+**~$ grep “name” molly.txt**   
+**My** *name* **is Molly.** 
 
 **rm**   
 To remove files, you can use this prompt.   
@@ -64,25 +81,10 @@ rm alone is not enough to remove directories, you need to use rmdir which is to 
 **~$ mkdir linux  
 ~$** 
 
-**cat**     
-To see the text content of your text file you can use this command.  
-**~$ cat mk.txt  
-My name is Molly.  
-~$**
 
-**echo**  
-It prints out whatever you type.   
-**~$ Echo “hi molly”   
-hi molly** 
-
-
-
-**grep**     
-If you want to search a particular word from the contents of a file you can use grep.   
-**~$ grep “name” molly.txt**   
-**My** *name* **is Molly.** 
 
 See you for the next lesson! 👋
+
 
 
 
