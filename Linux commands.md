@@ -51,38 +51,39 @@ Do you want a text file with content? Use nano to create a text file.
 4. Press enter-key and you’ll be back to your main page. 
 
 **rm**   
-To remove files, you can use this prompt. 
-⚠️ But be careful while using rm! ⚠️
-**~$ ls 
-linux   mk.txt
-~$ rm mk.txt 
+To remove files, you can use this prompt.   
+⚠️ But be careful while using rm! ⚠️  
+**~$ ls   
+linux   mk.txt  
+~$ rm mk.txt   
 ~$** 
 
 **rmdir**   
-rm alone is not enough to remove directories, you need to use rmdir which is to remove (empty) directories  
-⚠️ But be careful while using rmdir! ⚠️ 
-**~$ mkdir linux
+rm alone is not enough to remove directories, you need to use rmdir which is to remove (empty) directories    
+⚠️ But be careful while using rmdir! ⚠️   
+**~$ mkdir linux  
 ~$** 
 
-**cat**   
-To see the text content of your text file you can use this command.
-**~$ cat mk.txt
-My name is Molly. 
+**cat**     
+To see the text content of your text file you can use this command.  
+**~$ cat mk.txt  
+My name is Molly.  
 ~$**
 
 **echo**  
-It prints out whatever you type. 
-**~$ Echo “hi molly” 
+It prints out whatever you type.   
+**~$ Echo “hi molly”   
 hi molly** 
 
 
 
-**grep**   
-If you want to search a particular word from the contents of a file you can use grep. 
-**~$ grep “name” molly.txt** 
+**grep**     
+If you want to search a particular word from the contents of a file you can use grep.   
+**~$ grep “name” molly.txt**   
 **My** **name* **is Molly.** 
 
 See you for the next lesson! 👋
+
 
 
 
