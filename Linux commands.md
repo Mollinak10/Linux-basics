@@ -8,38 +8,38 @@ While setting up your username keep in mind to use underscore (_) and set up a s
 
 Structure 
 After setting your username and password, you will see something like this on the screen:  
-__molly_k@DESKTOP-MBJ059:~$__  
-You might see **$** or **#** depending on your system. Here “__molly_k__” is my username. 
-You need to be careful about being case-sensitive while working on Ubuntu. 
+__molly_k@DESKTOP-MBJ059:~$__    
+You might see **$** or **#** depending on your system. Here “__molly_k__” is my username.   
+You need to be careful about being case-sensitive while working on Ubuntu.   
 A and a are not the same thing! ⚠️ So, keep this in mind while working. 
 
-NAVIGATION
-How to navigate like a pro! 😄
+NAVIGATION  
+How to navigate like a pro! 😄  
 You need to know a few basic navigation commands to find your way while working. 
 
-**mkdir**   
-mkdir i.e. make directory is used to create a new directory.
-You can choose any name for your directory. Here I’m using linux (directory name). 
+**mkdir**     
+mkdir i.e. make directory is used to create a new directory.  
+You can choose any name for your directory. Here I’m using linux (directory name).   
 **~$ mkdir linux**
 
-**ls**   
-ls is used to list down all the content. It gives you a list of directories, comes in handy when you’re using multiple directories.
-**~$ ls**
+**ls**     
+ls is used to list down all the content. It gives you a list of directories, comes in handy when you’re using multiple directories.  
+**~$ ls**  
 **linux**
 
-**cd**   
-cd stands for change directory which literally means to change directory. When you have multiple directories, you can use cd to open other directories and navigate between them. 
-**~$ cd linux
+**cd**     
+cd stands for change directory which literally means to change directory. When you have multiple directories, you can use cd to open other directories and navigate between them.   
+**~$ cd linux  
 ~/linux$** 
 
-**cd ..**  
-Now, if you want to go back a step, you can use cd .. 
-**~/linux$ cd ..
+**cd ..**    
+Now, if you want to go back a step, you can use cd ..   
+**~/linux$ cd ..  
 ~$**
 
-**pwd**  
-pwd (print working directory) which shows the current directory i.e. the folder you are currently in. Since, the name of the directory is linux the command line shows full address like below. 
-**~/linux$ pwd
+**pwd**    
+pwd (print working directory) which shows the current directory i.e. the folder you are currently in. Since, the name of the directory is linux the command line shows full address like below.   
+**~/linux$ pwd  
 /home/molly_k/linux**
 
 **nano**     
@@ -80,9 +80,10 @@ hi molly**
 **grep**     
 If you want to search a particular word from the contents of a file you can use grep.   
 **~$ grep “name” molly.txt**   
-**My** **name* **is Molly.** 
+**My** *name* **is Molly.** 
 
 See you for the next lesson! 👋
+
 
 
 
