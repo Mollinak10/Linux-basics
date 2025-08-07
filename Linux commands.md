@@ -7,9 +7,9 @@ I’ll be using **Ubuntu 24.04.1 LTS** on my windows desktop. You can also downl
 While setting up your username keep in mind to use underscore (_) and set up a simple password like your name or 1234. 
 
 **Structure**   
-After setting your username and password, you will see something like this on the screen:
-#this is a bash command   
-__molly_k@DESKTOP-MBJ059:~$__    
+After setting your username and password, you will see something like this on the screen: 
+'''__molly_k@DESKTOP-MBJ059:~$__'''
+
 You might see **$** or **#** depending on your system. Here “__molly_k__” is my username.   
 You need to be careful about being case-sensitive while working on Ubuntu.   
 A and a are not the same thing! ⚠️ So, keep this in mind while working. 
@@ -85,6 +85,7 @@ rm alone is not enough to remove directories, you need to use rmdir which is to 
 
 
 See you for the next lesson! 👋
+
 
 
 
