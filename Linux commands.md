@@ -8,7 +8,7 @@ While setting up your username keep in mind to use underscore (_) and set up a s
 
 **Structure**   
 After setting your username and password, you will see something like this on the screen: 
-<pre>  __molly_k@DESKTOP-MBJ059:~$__  </pre>
+<pre> molly_k@DESKTOP-MBJ059:~$ </pre>
 
 You might see **$** or **#** depending on your system. Here “__molly_k__” is my username.   
 You need to be careful about being case-sensitive while working on Ubuntu.   
@@ -85,6 +85,7 @@ rm alone is not enough to remove directories, you need to use rmdir which is to 
 
 
 See you for the next lesson! 👋
+
 
 
 
