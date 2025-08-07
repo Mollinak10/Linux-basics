@@ -42,7 +42,7 @@ pwd (print working directory) which shows the current directory i.e. the folder 
 **~/linux$ pwd
 /home/molly_k/linux**
 
-**nano** 
+**nano**   
 Do you want a text file with content? Use nano to create a text file. 
 **~$ Nano mk.txt**
 1. A new window will open.
@@ -83,6 +83,7 @@ If you want to search a particular word from the contents of a file you can use 
 **My** **name* **is Molly.** 
 
 See you for the next lesson! 👋
+
 
 
 
