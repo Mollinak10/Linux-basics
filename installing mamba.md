@@ -1,7 +1,7 @@
 **Installing mamba**  
 In your terminal download mamba using wget.   
 If your system asks permission (yes/no) type yes. 
-<prev> wget https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-$(uname)-$(uname -m).sh </prev> 
+<pre> wget https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-$(uname)-$(uname -m).sh </pre> 
 running the script with Miniforge 
 bash Miniforge3-$(uname)-$(uname -m).sh
 once you have followed the steps, restart the terminal and mamba would be activated. You’ll see a prefix before your prompt. 
@@ -15,6 +15,7 @@ and now instead of “base” you’ll see “test”
 you can use multiple environments and to switch between them you can use 
 mamba deactivate  
 remember to not use this command while in your “base” environment 
+
 
 
 
