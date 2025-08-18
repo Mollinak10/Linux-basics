@@ -4,7 +4,7 @@ Welcome to Linux basic commands. You’ll learn how to navigate in Linux using t
 **Getting started  
 LINUX**   
 I’ll be using **Ubuntu 24.04.1 LTS** on my windows desktop. You can also download the previous versions of Ubuntu. The command lines and prompts will be usable on earlier and future versions as well.  
-While setting up your username keep in mind to use underscore (_) and set up a simple password like your name or 1234. 
+Set up your username and use a simple password like your name or 1234. 
 
 **Structure**   
 After setting your username and password, you will see something like this on the screen: 
@@ -86,6 +86,7 @@ rm alone is not enough to remove directories, you need to use rmdir which is to 
 
 
 See you for the next lesson! 😄 👋
+
 
 
 
