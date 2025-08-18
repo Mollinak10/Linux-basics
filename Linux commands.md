@@ -1,5 +1,5 @@
 Hi everyone! 👋
-Welcome to Linux basic commands. You’ll learn how to navigate in Linux using the command line. 
+Welcome to lesson 1️⃣ on Linux basic commands. You’ll learn how to navigate in Linux using the command line. 
 
 **Getting started  
 LINUX**   
@@ -86,6 +86,7 @@ rm alone is not enough to remove directories, you need to use rmdir which is to 
 
 
 See you for the next lesson! 😄 👋
+
 
 
 
