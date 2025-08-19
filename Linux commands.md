@@ -79,13 +79,14 @@ linux   mk.txt
 **rmdir**   
 rm alone is not enough to remove directories, you need to use rmdir which is to remove (empty) directories    
 ⚠️ But be careful while using rmdir! ⚠️   
-<pre>~$ mkdir linux  
+<pre>~$ rmdir linux  
 ~$ </pre>
 
 
 
 
 See you for the next lesson! 😄 👋
+
 
 
 
