@@ -35,9 +35,9 @@ You'll get two .fastq files since it is a paired file
 
 
 Step 4.   
-Make a new directory to keep the results of the previous steps.   
-<pre>mkdir outqc </pre>
-<pre>mv *.fastq outqc </pre> 
+Make a new directory to keep the results of the previous steps. *make another directory outqc*  
+<pre>mkdir QC </pre>
+<pre>mv *.fastq QC </pre> 
 ➡️ mv will move your fastq files to outqc   
 
 Step 5.     
@@ -50,5 +50,6 @@ Step 6. Install multiqc to generate a report
  Step 7. 
 <pre>cp -r multiqc_report.html /mnt/c/Users/moli/Downloads/</pre>
 
-⚠️/mnt/c/Users/ is common for every user but moli/downloads is the path in my system. ⚠️
+⚠️/mnt/c/Users/ and /Downloads/ is common for every user but /moli/ is the path in my system and different for everyone. ⚠️
+
 
