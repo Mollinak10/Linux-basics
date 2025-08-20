@@ -1,5 +1,5 @@
 Hi everyone 👋 We'll start with lesson 3️⃣   
-Today We'll learn how to do Fastqc.   
+Today We'll learn how to do Fastqc and Multiqc.   
 ⚠️Make sure that you are working in a fresh directory before starting. ⚠️
 
 In the previous lesson, we learned how to set up and work within a virtual environment. Since we now need to download tools, please follow the steps below.
@@ -51,3 +51,4 @@ Step 6. Install multiqc to generate a report
 <pre>cp -r multiqc_report.html /mnt/c/Users/moli/Downloads/</pre>
 
 ⚠️/mnt/c/Users/ is common for every user but moli/downloads is the path in my system. ⚠️
+
