@@ -19,7 +19,7 @@ Step 1.
 
 1. To download SRA files use this link https://www.ncbi.nlm.nih.gov/sra   
 2. You can type your organism's name and click on the first link that the search provides. 
-3. Check wether the file name starts with SRA or SRR and just copy it for the next step. 
+3. Check wether the file name starts with SRR and just copy it for the next step. 
 4. Also check what type the file is paired/unpaired. 
 
 Step 2.   
@@ -51,5 +51,6 @@ Step 6. Install multiqc to generate a report
 <pre>cp -r multiqc_report.html /mnt/c/Users/moli/Downloads/</pre>
 
 ⚠️/mnt/c/Users/ and /Downloads/ is common for every user but /moli/ is the path in my system and different for everyone. ⚠️
+
 
 
