@@ -35,3 +35,4 @@ freebayes-parallel <(fasta_generate_regions.py ref/GCF_900475035.1_41965_F01_gen
 
 
 
+
