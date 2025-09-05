@@ -1,3 +1,5 @@
+# Starting with basic file processing and QC
+
 Hi everyone 👋 We'll start with lesson 3️⃣   
 Today We'll learn how to do Fastqc and Multiqc.   
 ⚠️Make sure that you are working in a fresh directory before starting. ⚠️
@@ -51,6 +53,7 @@ Step 6. Install multiqc to generate a report
 <pre>cp -r multiqc_report.html /mnt/c/Users/moli/Downloads/</pre>
 
 ⚠️/mnt/c/Users/ and /Downloads/ is common for every user but /moli/ is the path in my system and different for everyone. ⚠️
+
 
 
 
