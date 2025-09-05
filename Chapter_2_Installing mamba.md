@@ -1,3 +1,5 @@
+# Installing and setting up your package manager
+
 Hi everyone! 😃   
 Welcome to lesson 2️⃣ where we'll learn how to install a package manager.      
 I prefer to use mamba but there are many other package managers like anaconda and conda.   
@@ -22,6 +24,7 @@ and now instead of “base” you’ll see “test”
 you can use multiple environments and to switch between them you can use the command below and then activate another envirnoment❗   
 <pre> mamba deactivate </pre>   
 ⚠️remember to not use this command while in your “base” environment⚠️ 
+
 
 
 
