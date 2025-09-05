@@ -55,3 +55,6 @@ Step 8. Since our file is in the HTML format, we'll need to visualise it in a br
 <pre> cp multiqc_report.html /mnt/c/Users/moli/Downloads/ </pre>
 
 ⚠️/mnt/c/Users/ and /Downloads/ is common for every user but /moli/ is the path in my system and will be different for everyone. You can double-tap the Tab button when typing in your path till the Users bit. ⚠️
+
+#### Exercise: Download multiple SRA files (all are Illumina paired-end sequences) SRR35160851 and SRR35160860, extract them, run FASTQC on them and create a multiqc report.
+
