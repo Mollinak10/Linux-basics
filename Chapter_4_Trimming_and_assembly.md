@@ -1,4 +1,4 @@
-# Chapter 3 - Trimming and assembly!
+# Trimming and assembly!
 
 ## Trimming
 Adapter trimming and quality filtration are very important steps of QC, and are required before performing further downstream processing. Since you downloaded 2 FASTQ isolates from your exercise, we'll use them to perform trimming using two different tools!
@@ -33,3 +33,4 @@ We'll be performing de-novo genome assembly of our 2 isolates, using `spades` fo
 <pre> spades.py -1 trim/SRR35160860/SRR35160860_1_val_1.fq -2 trim/SRR35160860/SRR35160860_2_val_2.fq -o SRR35160860_spades -t 2 </pre>
 
 Genome assembly is a time taking process, so sit back and relax and it should be done in some time.
+
