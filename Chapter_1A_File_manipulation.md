@@ -52,3 +52,9 @@ As we said there are several ways, and all of them involve you providing a sourc
 </pre>
 
 #### Now your job is to find all the mismatched in both BacteriaData and VirusData and organise them.
+
+For our final exercise, we'll create two subdirectories, called assemblies and annotations. 
+
+<pre> mkdir assemblies annotations </pre>
+
+If you noticed, all assemblies and annotations have a common suffix across all files, `_nt.fa` for assemblies and `_aa.fa` for annotations, so use a single command to copy `cp` all the assemblies to the `assemblies` dir and all protein FASTA files to the `annotations` dir.
