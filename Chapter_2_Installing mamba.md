@@ -21,24 +21,8 @@ Type the command below to run your script
 and now instead of “base” you’ll see “test” 
 <pre>(base)molly_k@DESKTOP-MBJ059:~$ 
 (test)molly_k@DESKTOP-MBJ059:~$ </pre>
-you can use multiple environments and to switch between them you can use the command below and then activate another envirnoment❗   
+In order to list the total number of environments that your package manager has, use: 
+<pre> mamba env list </pre>
+You can use multiple environments and to switch between them you can use the command below and then activate another envirnoment❗   
 <pre> mamba deactivate </pre>   
 ⚠️remember to not use this command while in your “base” environment⚠️ 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
