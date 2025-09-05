@@ -1,4 +1,4 @@
-# Linux-basics Chapter 1!
+# Linux Basics Chapter 1!
 Hi everyone! 👋  
 Welcome to lesson 1️⃣ on Linux basic commands. You’ll learn how to navigate in Linux using the command line. 
 
@@ -93,4 +93,5 @@ rm alone is not enough to remove directories, you need to use rmdir which is to 
 
 
 See you for the next lesson! 😄 👋
+
 
