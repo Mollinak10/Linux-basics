@@ -1,3 +1,9 @@
+# Variant calling!
+
+The bioinformatic process to identify mutations in isolates is called variant/SNP calling. Variant calling identifies all SNPs, SNVs including indels (insertions/deletions).
+
+
+
 mamba install spades 
  
 
@@ -32,6 +38,7 @@ picard MarkDuplicates -I sorted.bam -O dedup.bam -M metrics.txt --CREATE_INDEX t
 
 mamba install freebayes
 freebayes-parallel <(fasta_generate_regions.py ref/GCF_900475035.1_41965_F01_genomic.fna.fai 100000) 2 -f ref/GCF_900475035.1_41965_F01_genomic.fna dedup.bam > variants.vcf
+
 
 
 
